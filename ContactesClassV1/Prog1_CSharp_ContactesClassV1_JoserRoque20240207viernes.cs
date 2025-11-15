@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Bienvenido a mi lista de Contactos");
+﻿//Jose Cadmiel Roque Zapata 2024-0207 P1-Viernes
+Console.WriteLine("Bienvenido a mi lista de Contactos");
 
 bool runing = true;
 List<int> ids = new List<int>();

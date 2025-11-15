@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Computer Centech\\Desktop\\Contactes\\Contactes\\Contactes.csproj": {}
+    "C:\\Users\\Computer Centech\\Desktop\\Contactes\\ContactesClassV1\\Contactes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Computer Centech\\Desktop\\Contactes\\Contactes\\Contactes.csproj": {
+    "C:\\Users\\Computer Centech\\Desktop\\Contactes\\ContactesClassV1\\Contactes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Computer Centech\\Desktop\\Contactes\\Contactes\\Contactes.csproj",
+        "projectUniqueName": "C:\\Users\\Computer Centech\\Desktop\\Contactes\\ContactesClassV1\\Contactes.csproj",
         "projectName": "Contactes",
-        "projectPath": "C:\\Users\\Computer Centech\\Desktop\\Contactes\\Contactes\\Contactes.csproj",
+        "projectPath": "C:\\Users\\Computer Centech\\Desktop\\Contactes\\ContactesClassV1\\Contactes.csproj",
         "packagesPath": "C:\\Users\\Computer Centech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Computer Centech\\Desktop\\Contactes\\Contactes\\obj\\",
+        "outputPath": "C:\\Users\\Computer Centech\\Desktop\\Contactes\\ContactesClassV1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Computer Centech\\AppData\\Roaming\\NuGet\\NuGet.Config"
