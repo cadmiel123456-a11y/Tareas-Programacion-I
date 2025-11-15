@@ -1,0 +1,14 @@
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\bin\Debug\net10.0\Contactes.exe
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\bin\Debug\net10.0\Contactes.deps.json
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\bin\Debug\net10.0\Contactes.runtimeconfig.json
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\bin\Debug\net10.0\Contactes.dll
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\bin\Debug\net10.0\Contactes.pdb
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\Contactes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\Contactes.AssemblyInfoInputs.cache
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\Contactes.AssemblyInfo.cs
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\Contactes.csproj.CoreCompileInputs.cache
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\Contactes.dll
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\refint\Contactes.dll
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\Contactes.pdb
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\Contactes.genruntimeconfig.cache
+C:\Users\Computer Centech\Desktop\Contactes\Contactes\obj\Debug\net10.0\ref\Contactes.dll
